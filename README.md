@@ -21,7 +21,7 @@ One you have this sample opened in a container, you'll be able to work with it l
 
 Some things to try:
 
-1. **Terminal:** Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>\`</kbd> and type `yarn create nuxt-app .` and answering questions from the terminal window.
+1. **Terminal:** Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>\^</kbd> and type `yarn create nuxt-app .` and answering questions from the terminal window.
 2. **Edit:**
    - Open `pages/index.vue`
    - Try adding some code and check out the language features. To format code press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> . It is also possible to go to definition of a custom element by clicking one. Notice that `vscode-eslint`, `vue-peek` and the `vetur` extension are already installed in the container.
