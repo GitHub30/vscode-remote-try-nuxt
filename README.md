@@ -33,7 +33,9 @@ Some things to try:
    - Add a breakpoint in `webpack:///pages/index.vue` (e.g. on line 29).
    - Press <kbd>F5</kbd> to reload the page.
    - Once the breakpoint is hit, try hovering over variables, examining locals, and more.
-   - Notice: Debug on VSCode is a bug. [#832](https://github.com/microsoft/vscode-chrome-debug/issues/832)
+   - Notice: Debug on VSCode is a bug. 
+
+microsoft/vscode-chrome-debug#832
 
 ## Contributing
 
