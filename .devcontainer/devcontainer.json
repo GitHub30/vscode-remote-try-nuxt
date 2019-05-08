@@ -1,5 +1,5 @@
 {
-    "name": "Nuxt App2",
+    "name": "Nuxt App",
     "dockerFile": "Dockerfile",
     "appPort": 3000,
     "extensions": [

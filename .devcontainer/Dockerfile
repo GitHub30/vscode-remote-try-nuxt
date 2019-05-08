@@ -34,7 +34,6 @@ RUN rm -rf /opt/yarn-* /usr/local/bin/{yarn,yarnpkg} \
 
 # Copy default endpoint specific user settings overrides into container to specify Formatter
 COPY --chown=node:node settings.vscode.json $HOME/.vscode-remote/data/Machine/settings.json
-RUN ls -la $HOME
 
 # Clean up
 RUN apt-get autoremove -y \
